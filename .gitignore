@@ -1,0 +1,10 @@
+.DS_Store
+.history
+node_modules
+npm-debug.log
+.idea
+.zip
+dev
+dist*
+test
+tmp
