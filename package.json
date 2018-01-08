@@ -1,0 +1,18 @@
+{
+  "name": "koa2",
+  "version": "0.0.1",
+  "description": "a koa2 demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "woshilaoge",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "koa-compose": "^4.0.0"
+  }
+}
